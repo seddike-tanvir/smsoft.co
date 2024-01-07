@@ -1,0 +1,88 @@
+@media only screen and (max-width: 3000px) and (min-width: 760px) {
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.body_wrapper{
+    height: 120rem;
+}
+
+.pre-navber{
+    width: 100vw;
+    height: 2rem;
+    background-color:#ffffff;
+}
+.pre-navber_contact{
+    margin: auto;
+    width:23rem; 
+    padding-top: .3rem;
+}
+.pre-navber_contact p{
+    display: inline-block;
+    font-size: 1rem;
+    color:rgb(37, 141, 84);
+}
+.navber{
+    height: 4.5rem;
+    width: 100vw;
+    background-color:#320bdd;
+    position:sticky;
+    top: 0rem;
+    box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.274);}
+.navbar-area{
+    width: 100vw;
+    height: 100%;
+}
+.nav-logo_area{
+    width: 25vw;
+    height: 100%;
+    position: absolute;
+    left: 4vw;
+}
+.nav-logo{
+    padding-top: .7rem;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    letter-spacing: 0.4rem;
+}
+.nav-menu{
+    width: 50vw;
+    height: 4rem;
+    position: absolute;
+    right: 3vw;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.nav-menu li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 0rem 4.5%;
+
+}
+.nav-menu li a{
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+.nav-menu li a:hover{
+    color: rgb(240, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+}
