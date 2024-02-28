@@ -1,7 +1,5 @@
-Hi! Welcome back.
+            Hi! Welcome back.
 
-
-
-This is the official Site of "SM Soft.Co".
+Now " https://seddike-tanvir.github.io/smsoft.co/public " is the temporary official site domain of "SM Soft.Co".
             Stay connected!
 
