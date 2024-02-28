@@ -1,3 +1,3 @@
 Hi! Welcome back.
-This is tho official repo of "SM Soft.Co".
+This is the official repo of "SM Soft.Co".
             Stay connected!
